@@ -1,10 +1,10 @@
-#Optimization Modeling with Pyomo
+# Optimization Modeling with Pyomo
 
 This repository contains mathematical optimization models developed using Pyomo as part of a graduate-level Optimization course. The focus is on formulating and solving linear programming and network flow models across diverse operational and business contexts.
 
-##Problems Modeled
+## Problems Modeled
 
-###The repository includes implementations representing the following optimization problems:
+### The repository includes implementations representing the following optimization problems:
 
 Product Mix
 
@@ -56,7 +56,7 @@ Snow Removal
 
 Network Flow Modeling
 
-###Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 Linear Programming (LP) formulation
 
@@ -74,6 +74,6 @@ Production and inventory modeling
 
 Implementation in Python using Pyomo
 
-###Academic Integrity Notice
+### Academic Integrity Notice
 
 Original problem statements are not included in accordance with course policies. This repository contains model implementations only.
